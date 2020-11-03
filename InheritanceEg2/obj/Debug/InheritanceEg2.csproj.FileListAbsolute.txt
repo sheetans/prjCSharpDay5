@@ -1,0 +1,7 @@
+E:\New folder\Online Training\C#\Day5\CsharpDay5\InheritanceEg2\bin\Debug\InheritanceEg2.exe.config
+E:\New folder\Online Training\C#\Day5\CsharpDay5\InheritanceEg2\bin\Debug\InheritanceEg2.exe
+E:\New folder\Online Training\C#\Day5\CsharpDay5\InheritanceEg2\bin\Debug\InheritanceEg2.pdb
+E:\New folder\Online Training\C#\Day5\CsharpDay5\InheritanceEg2\obj\Debug\InheritanceEg2.csprojAssemblyReference.cache
+E:\New folder\Online Training\C#\Day5\CsharpDay5\InheritanceEg2\obj\Debug\InheritanceEg2.csproj.CoreCompileInputs.cache
+E:\New folder\Online Training\C#\Day5\CsharpDay5\InheritanceEg2\obj\Debug\InheritanceEg2.exe
+E:\New folder\Online Training\C#\Day5\CsharpDay5\InheritanceEg2\obj\Debug\InheritanceEg2.pdb

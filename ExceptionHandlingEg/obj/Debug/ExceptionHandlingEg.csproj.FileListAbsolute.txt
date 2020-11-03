@@ -1,0 +1,7 @@
+E:\New folder\Online Training\C#\Day5\CsharpDay5\ExceptionHandlingEg\bin\Debug\ExceptionHandlingEg.exe.config
+E:\New folder\Online Training\C#\Day5\CsharpDay5\ExceptionHandlingEg\bin\Debug\ExceptionHandlingEg.exe
+E:\New folder\Online Training\C#\Day5\CsharpDay5\ExceptionHandlingEg\bin\Debug\ExceptionHandlingEg.pdb
+E:\New folder\Online Training\C#\Day5\CsharpDay5\ExceptionHandlingEg\obj\Debug\ExceptionHandlingEg.csproj.CoreCompileInputs.cache
+E:\New folder\Online Training\C#\Day5\CsharpDay5\ExceptionHandlingEg\obj\Debug\ExceptionHandlingEg.exe
+E:\New folder\Online Training\C#\Day5\CsharpDay5\ExceptionHandlingEg\obj\Debug\ExceptionHandlingEg.pdb
+E:\New folder\Online Training\C#\Day5\CsharpDay5\ExceptionHandlingEg\obj\Debug\ExceptionHandlingEg.csprojAssemblyReference.cache
